@@ -1,3 +1,4 @@
+
 const guessInput = document.getElementById("guess");
 const submitButton = document.getElementById("submit");
 const resetButton = document.getElementById("reset");
